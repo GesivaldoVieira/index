@@ -14,8 +14,6 @@ img.capoeira {
     width: 500px;
     height: 350px;
     background-position: top;
-    justify-content: center;
-    justify-items: center;
 }
 img.natal
 {
@@ -25,7 +23,5 @@ img.natal
     position: fixed;
     width: 500px;
     height: 350px;
-    justify-content: center;
-    justify-items: center;
 
 }
